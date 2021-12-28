@@ -26,6 +26,7 @@ PASO 12: Creación del menu: Debemos de ir a Personalizar --> Menús y crear uno
       ÁREA DE GESTIÓN
       ÁREA DEL SOCIO
   ¡IMPORTANTE! En los ajustes del menú, más concretamente en Dónde se verá hay que seleccionar Principal y guardar los cambios.
+PASO 13: Ir al personalizador y establecer como página de inicio una página estática, en este caso, Inicio.
 PASO 13: Importación de header y footer: Hacer click en el menu lateral izquierdo de wordpres en el apartado Plantillas 
   y seleccionar Plantillas Guardadas. Una vez dentro, arriba aparecerá la opción de importar plantillas. Hacemos click en ella y subimos de una en una las dos plantillas 
   situadas en el directorio Plantillas de elementor.
