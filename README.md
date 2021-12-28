@@ -2,11 +2,11 @@
 - **PASO 1:** Instalar Wordpress en un servidor
 - **PASO 2:** Tras la configuración de Wordpress, debemos instalar el Tema Twenty Nineteen y establecerlo como predefinido (Borrar el resto de temas si así se considera oportuno).
 - **PASO 3:** Establecer en los ajustes de configuración de Wordpress --> Enlaces permanentes, Nombre de la entrada como url por defecto.
-PASO 4: Insalar el plugin Elementor Website Builder
-PASO 5: Instalar el plugin Elementor Pro de la carpeta Plugins de este directorio
-PASO 6: Instalar el plugin Essential Addons for Elementor
-PASO 7: Importación de medios al nuevo servidor: estos están disponibles en la carpeta Medios de este directorio.
-PASO 8: Establecer el logotipo del Gimnasio: El logotipo del gimnasio se debe haber subido a los medios de Wordpress bajo el nombre FITNASIO. Esta opción se realiza en el
+- **PASO 4:** Insalar el plugin Elementor Website Builder
+- **PASO 5:** Instalar el plugin Elementor Pro de la carpeta Plugins de este directorio
+- **PASO 6:** Instalar el plugin Essential Addons for Elementor
+- **PASO 7:** Importación de medios al nuevo servidor: estos están disponibles en la carpeta Medios de este directorio.
+- **PASO 8:** Establecer el logotipo del Gimnasio: El logotipo del gimnasio se debe haber subido a los medios de Wordpress bajo el nombre FITNASIO. Esta opción se realiza en el
   personalizador del tema.
 PASO 9: Establecer como título del sitio web: FITNASIO y como descripción: GIMNASIO MULTIDEPORTE
 PASO 10: Instalar el plugin Members – Membership & User Role Editor Plugin
@@ -39,4 +39,4 @@ PASO 18: Entrar en la página de Inicio utilizando el editor visual de elementor
   Las otras tres de las ciudades se cambian simplemente haciendo click sobre ellas y seleccionando la de la biblioteca de medios. Para ponerlas en el tamaño que corresponden
   has de ponerlas en otro tamaño Ej: 300 x 300 px y luego volver a seleccionar 150 x 150 px.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+- **RECUPERACIÓN COMPLETA DEL SITIO EN CASO DE QUERER AHORRARSE TODOS LOS PASOS ANTERIORES:** Si usted desea simplemente recuperar el sitio web con un backup solamente ha de instalar el plugin que hemos dejado en la carpeta Plguins de este directorio denominado all-in-one-wp-migration y una vez instalado hacer click en importar y seleccionar el contenido extraido del archivo Backup Wp.zip del directorio raiz.
