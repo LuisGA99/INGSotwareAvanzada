@@ -1,7 +1,7 @@
 # INGSotwareAvanzada
-**PASO 1:** Instalar Wordpress en un servidor
-**PASO 2:** Tras la configuración de Wordpress, debemos instalar el Tema Twenty Nineteen y establecerlo como predefinido (Borrar el resto de temas si así se considera oportuno).
-**PASO 3:** Establecer en los ajustes de configuración de Wordpress --> Enlaces permanentes, Nombre de la entrada como url por defecto.
+- **PASO 1:** Instalar Wordpress en un servidor
+- **PASO 2:** Tras la configuración de Wordpress, debemos instalar el Tema Twenty Nineteen y establecerlo como predefinido (Borrar el resto de temas si así se considera oportuno).
+- **PASO 3:** Establecer en los ajustes de configuración de Wordpress --> Enlaces permanentes, Nombre de la entrada como url por defecto.
 PASO 4: Insalar el plugin Elementor Website Builder
 PASO 5: Instalar el plugin Elementor Pro de la carpeta Plugins de este directorio
 PASO 6: Instalar el plugin Essential Addons for Elementor
