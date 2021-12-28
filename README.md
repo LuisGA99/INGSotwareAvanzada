@@ -1,4 +1,4 @@
-# INGSotwareAvanzada
+# INGSotwareAvanzada Grupo 4 Horario 15 - 17 --> T15-4
 - **PASO 1:** Instalar Wordpress en un servidor
 - **PASO 2:** Tras la configuración de Wordpress, debemos instalar el Tema Twenty Nineteen y establecerlo como predefinido (Borrar el resto de temas si así se considera oportuno).
 - **PASO 3:** Establecer en los ajustes de configuración de Wordpress --> Enlaces permanentes, Nombre de la entrada como url por defecto.
