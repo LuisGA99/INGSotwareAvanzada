@@ -15,7 +15,7 @@
   - Usuario: recpcionista - Contraseña: a elegir - Perfil de usuario: Socio
   - Usuario: socio - Contraseña: a elegir  - Perfil de usuario: recepcionista
   *Estos usuarios son elegidos para mostrar el funcionamiento real de la pagina, no estan todos los usuarios finales que la utilizarian*
-- **PASO 13:** Importación de las páginas: La importación se realiza mediante un fichero denominado paginas.xml situado en la raiz de este directorio. Para importarlo,debemos utilizar la herramienta de importación de Wordpress situada en herramientas -> Importación -> (Instalar el importador de Wordpress si no se tiene). Una vez seleccionado el archivo, debemos indicar que el author de dichas páginas sea el que nosotros deseemos (SOLO PERFIL DE ADMINISTRADOR).
+- **PASO 13:** Importación de las páginas: La importación se realiza mediante un fichero denominado paginas.xml situado en la raiz de este directorio. Para importarlo, debemos utilizar la herramienta de importación de Wordpress situada en herramientas -> Importación -> (Instalar el importador de Wordpress si no se tiene). Una vez seleccionado el archivo, debemos indicar que el author de dichas páginas sea el que nosotros deseemos (SOLO PERFIL DE ADMINISTRADOR).
 - **PASO 14:** Creación del menu: Debemos de ir a Personalizar --> Menús y crear uno cuyo nombre sea Header y contenga por este orden las siguientes pestañas:
   INICIO
   PRECIOS
@@ -23,12 +23,17 @@
   ÁREA PRIVADA
       ÁREA DE GESTIÓN
       ÁREA DEL SOCIO
-¡IMPORTANTE! En los ajustes del menú, más concretamente en Dónde se verá hay que seleccionar Principal y guardar los cambios.
+**¡IMPORTANTE!** En los ajustes del menú, más concretamente en Dónde se verá hay que seleccionar Principal y guardar los cambios.
 - **PASO 15:** Ir al personalizador y establecer como página de inicio una página estática, en este caso, Inicio.
 - **PASO 16:** Importación de header y footer: Hacer click en el menu lateral izquierdo de wordpres en el apartado Plantillas y seleccionar Plantillas Guardadas. Una vez dentro, arriba aparecerá la opción de importar plantillas. Hacemos click en ella y subimos de una en una las dos plantillas situadas en el directorio Plantillas de elementor.
 - **PASO 17:** Entrar tanto en Header como en Footer una vez importados con el editor de Elementor. Hacer click en la pestaña hacia arriba (al lado del botón actualizar, abajo a la izquierda) y seleccionar Display Conditions. Una vez ahí, seleccionar ADD y poner la condición para que ambos se muestren en todo el sitio web. 
-¡IMPORTANTE REALIZAR ESTE PASO CORRECTAMENTE! Con las dos plantillas marcadas para todo el sitio web.
+**¡IMPORTANTE REALIZAR ESTE PASO CORRECTAMENTE!** Con las dos plantillas marcadas para visualizarlas en todo el sitio web.
 - **PASO 18:** Entrar en la página de Inicio utilizando el editor visual de elementor. Una vez dentro, sustituir todas las imágenes referenciadas por las que se han subido en el paso 7. La primera de ellas (Gimansio de fondo) se sustituye haciendo click sobre la imágen, luego pulsando en los cuadrados azules que salen en la parte central superior de la misma y haciéndo click en la barra lateral en estilo.
 Las otras tres de las ciudades se cambian simplemente haciendo click sobre ellas y seleccionando la de la biblioteca de medios. Para ponerlas en el tamaño que corresponden has de ponerlas en otro tamaño Ej: 300 x 300 px y luego volver a seleccionar 150 x 150 px.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **RECUPERACIÓN COMPLETA DEL SITIO EN CASO DE QUERER AHORRARSE TODOS LOS PASOS ANTERIORES:** Si usted desea simplemente recuperar el sitio web con un backup solamente ha de instalar el plugin que hemos dejado en la carpeta Plguins de este directorio denominado all-in-one-wp-migration y una vez instalado hacer click en importar y seleccionar el contenido extraido del archivo Backup Wp.zip del directorio raiz.
+- **Claves de acceso a la copia de seguriad: **
+- **Usuario: **: admin
+- **Contraseña: ** IngenieriaDelSoftware
+- **ULR de acceso: ** urlDeWordprees/WP-admin
+- Si se desea disponemos de la página original instalada en el dominio fitnasio.tk
