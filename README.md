@@ -1,6 +1,7 @@
 # INGSotwareAvanzada
 PASO 1: Instalar Wordpress en un servidor
 PASO 2: Tras la configuración de Wordpress, debemos instalar el Tema Twenty Nineteen y establecerlo como predefinido (Borrar el resto de temas si así se considera oportuno).
+PASO 3: Establecer en los ajustes de configuración de Wordpress --> Enlaces permanentes, Nombre de la entrada como url por defecto.
 PASO 2: Insalar el plugin Elementor Website Builder
 PASO 3: Instalar el plugin Elementor Pro de la carpeta Plugins de este directorio
 PASO 4: Instalar el plugin Essential Addons for Elementor
@@ -28,3 +29,7 @@ PASO 12: Creación del menu: Debemos de ir a Personalizar --> Menús y crear uno
 PASO 13: Importación de header y footer: Hacer click en el menu lateral izquierdo de wordpres en el apartado Plantillas 
   y seleccionar Plantillas Guardadas. Una vez dentro, arriba aparecerá la opción de importar plantillas. Hacemos click en ella y subimos de una en una las dos plantillas 
   situadas en el directorio Plantillas de elementor.
+PASO X: Entrar tanto en Header como en Footer una vez importados con el editor de Elementor. Hacer click en la pestaña hacia arriba (al lado del botón actualizar, abajo a la 
+  izquierda) y seleccionar Display Conditions. Una vez ahí, seleccionar ADD y poner la condición para que ambos se muestren en todo el sitio web. 
+  ¡IMPORTANTE REALIZAR ESTE PASO CORRECTAMENTE! Con las dos plantillas marcadas para todo el sitio web.
+
