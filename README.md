@@ -37,3 +37,7 @@ Las otras tres de las ciudades se cambian simplemente haciendo click sobre ellas
 - **Contraseña: ** IngenieriaDelSoftware
 - **ULR de acceso: ** urlDeWordprees/WP-admin
 - Si se desea disponemos de la página original instalada en el dominio fitnasio.tk
+- **Claves de acceso a la Web Original: **
+- **Usuario: **: IGwGUF02sK
+- **Contraseña: ** 82t3W5xn)#CI
+- **ULR de acceso: ** urlDeWordprees/WP-admin
